@@ -21,11 +21,9 @@ public class Main {
         System.out.println("");
         System.out.println("--------------------------------------------------------------------------------------------------------------------------");
         System.out.println("                                                                                                                          ");
-        System.out.println("                                                 ===== FARMACIA =====                                    "+ format2);
-        System.out.println("                                           TESTES ÁGEIS 2020 - CESAR SCHOOL                                               " );
-        System.out.println("                                                REVISÃO DE PROGRAMAÇÃO                                                    ");
-        System.out.println("                                               PROFESSOR: JORGE FONSECA                                                   ");
-        System.out.println("                                                 ALUNO: SAMUEL AQUINO                                                     ");
+        System.out.println("                                              ======== PHARMACIE =========                                "+ format2);
+        System.out.println("                                               TESTS AGILES - CESAR SCHOOL                                                " );
+        System.out.println("                                              ======= SAMUEL AQUINO ======                                                " );
         System.out.println("");
         System.out.println("--------------------------------------------------------------------------------------------------------------------------");
         System.out.println("");
